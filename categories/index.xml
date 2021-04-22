@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - GOTO</title>
+        <link>https://liuhao-sys.github.io/categories/</link>
+        <description>Categories - Category - GOTO</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://liuhao-sys.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>杂文</title>
+    <link>https://liuhao-sys.github.io/categories/%E6%9D%82%E6%96%87/</link>
+    <pubDate>Sun, 24 Jan 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://liuhao-sys.github.io/categories/%E6%9D%82%E6%96%87/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

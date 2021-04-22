@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - GOTO</title>
+        <link>https://liuhao-sys.github.io/tags/</link>
+        <description>Tags - Tag - GOTO</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://liuhao-sys.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>博客</title>
+    <link>https://liuhao-sys.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <pubDate>Sun, 24 Jan 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://liuhao-sys.github.io/tags/%E5%8D%9A%E5%AE%A2/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>笔记</title>
+    <link>https://liuhao-sys.github.io/tags/%E7%AC%94%E8%AE%B0/</link>
+    <pubDate>Sun, 24 Jan 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://liuhao-sys.github.io/tags/%E7%AC%94%E8%AE%B0/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

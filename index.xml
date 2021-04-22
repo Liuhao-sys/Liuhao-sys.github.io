@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>GOTO</title>
+        <link>https://liuhao-sys.github.io/</link>
+        <description>GOTO</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://liuhao-sys.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>我是第一篇文章</title>
+    <link>https://liuhao-sys.github.io/posts/my-first-post/</link>
+    <pubDate>Sun, 24 Jan 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://liuhao-sys.github.io/posts/my-first-post/</guid>
+    <description><![CDATA[这是我的第一篇文章]]></description>
+</item></channel>
+</rss>
